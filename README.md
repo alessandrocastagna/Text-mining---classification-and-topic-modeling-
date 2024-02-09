@@ -1,6 +1,4 @@
-# Text-mining - classification and topic modeling
-
-# Text Mining Project: SMS Spam Classification
+# Text Mining Project: SMS Spam Classification and Topic Modeling
 
 This project involves the classification of SMS messages into 'spam' or 'not spam' categories using various text mining techniques and machine learning models. The project is structured as a Jupyter Notebook.
 
